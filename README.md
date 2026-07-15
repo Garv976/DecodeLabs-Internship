@@ -13,6 +13,11 @@ This repository contains all projects completed during the DecodeLabs Data Analy
 ### Project 3 - SQL Data Analysis
 - Used SQL queries to filter, sort, group, and analyze data using aggregate functions.
 
+ ### Project 4: Data Visualization
+- Created different charts and graphs
+- Visualized trends and patterns in the data
+- Presented insights using Python libraries
+
 ## Tools & Technologies
 - Python
 - Pandas
