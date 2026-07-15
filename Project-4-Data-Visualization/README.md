@@ -25,11 +25,6 @@ This project focuses on exploring the dataset through different types of charts 
 - Seaborn
 - Google Colab
 
-## Files Included
-
-- `Data_Visualization.ipynb` – Jupyter Notebook containing the complete visualization process.
-- `README.md` – Project documentation.
-
 ## Outcome
 
 Created clear and informative visualizations that help understand the dataset and communicate key insights effectively.
